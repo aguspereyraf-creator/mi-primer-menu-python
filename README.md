@@ -3,3 +3,5 @@
 1. Descarga el archivo .py
 2. Abre la terminal
 3. Ejecuta el archivo utilizando python menu.py
+
+Realizado por: Agustin Pereyra
